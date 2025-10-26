@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "966520917657",
+    "project_id": "fir-88447",
+    "storage_bucket": "fir-88447.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966520917657:android:1c63628f21d6937410f208",
+        "android_client_info": {
+          "package_name": "com.example.project_seven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzP79tdcKbXYanFtu-JePnVd7CIOqE-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966520917657:android:03edd05c0da5683710f208",
+        "android_client_info": {
+          "package_name": "com.example.project_six"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzP79tdcKbXYanFtu-JePnVd7CIOqE-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966520917657:android:490cf2a3d43e190110f208",
+        "android_client_info": {
+          "package_name": "com.example.smartwatch_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzP79tdcKbXYanFtu-JePnVd7CIOqE-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
